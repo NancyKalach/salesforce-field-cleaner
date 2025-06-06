@@ -63,13 +63,6 @@ Output will be saved as:
 
 contact_field_population_report.xlsx
 
-## 🛠 Future Improvements
-
-* Add support for OAuth login
-* Schedule reports via cron
-* Field-level metadata enrichment (labels, types)
-* UI version with Streamlit
-
 ## License
 
 MIT License © \Nancy Al Kalach

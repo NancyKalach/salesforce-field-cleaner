@@ -1,0 +1,5 @@
+simple-salesforce
+pandas
+python-dotenv
+questionary
+openpyxl
